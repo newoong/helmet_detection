@@ -8,3 +8,4 @@ crop된 image를 헬멧 착용 유무로 학습시킨 GoolgeNet모델에 predict
 
 pretrained yolov3 face detection implement
 yolo관련 자료 : https://github.com/sthanhng/yoloface
+-- cfg, weight 파일 등은 위 github에서 다운로드 해야함
